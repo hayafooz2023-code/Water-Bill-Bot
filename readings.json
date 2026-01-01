@@ -1,0 +1,35 @@
+{
+  "version": "2.0",
+  "created_at": "2026-01-01T11:33:22.310087",
+  "users": {
+    "5597687493": {
+      "first_name": "ENG.YAFOOZ",
+      "username": "eng_yafooz",
+      "reminder_enabled": true,
+      "notification_time": "10:00",
+      "created_at": "2026-01-01T12:06:37.737362",
+      "last_active": "2026-01-01T14:07:54.910306",
+      "last_reading": 129.0,
+      "last_invoice_date": "2026-01"
+    }
+  },
+  "invoices": {
+    "5597687493_2026-01": {
+      "user_id": "5597687493",
+      "year_month": "2026-01",
+      "previous_reading": 129.0,
+      "current_reading": 129.0,
+      "consumption": 0.0,
+      "total_amount": 250.0,
+      "timestamp": "2026-01-01 14:02:45",
+      "month_name": "يناير 2026"
+    }
+  },
+  "settings": {
+    "unit_price": 700,
+    "monthly_fee": 250,
+    "currency": "﷼",
+    "reminder_day": 1,
+    "reminder_hour": 11
+  }
+}
